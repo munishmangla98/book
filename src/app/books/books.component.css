@@ -1,0 +1,7 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh; /* Adjust the height if needed */
+    font-size: 40px;
+  }
